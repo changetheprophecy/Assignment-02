@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flower-body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.inter-regular {
+  font-family: "Inter", sans-serif;
+}
+
+/* navbar*/
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+.nav-link{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    list-style: none;
+}
+.nav-link a{
+    text-decoration: none;
+    color: #8987A1;
+}
+.nav-link-home{
+    color: black;
+    font-weight: bold;
+}
+.nav-link-cart{
+    color: black;
+}
+
