@@ -263,8 +263,6 @@ img{
 .search-container{
     display: flex;
     justify-content: center;
-    max-width: 800px;
-    margin: 0 auto;
 }
 .search-container input{
     flex: 1;
