@@ -330,6 +330,9 @@ img{
   .banner-image img {
     max-width: 100%;
   }
+  .hide{
+    display: none;
+  }
   .plants-section{
     margin-bottom: 100px;
   }
